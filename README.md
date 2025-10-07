@@ -1,16 +1,16 @@
 # Delivery Delay Prediction Project
 
-## 📋 Project Overview
+##  Project Overview
 This project focuses on predicting delivery delays in logistics operations using machine learning. By analyzing historical delivery data, we identify key factors that contribute to delays and build predictive models to flag potential late deliveries in advance.
 
-## 🎯 Business Problem
+##  Business Problem
 Delivery delays can significantly impact:
 - **Customer satisfaction** and brand reputation
 - **Operational costs** through re-routing and urgent handling
 - **Revenue loss** from canceled orders
 - **Supply chain efficiency** through ripple effects
 
-## 📊 Dataset Summary
+##  Dataset Summary
 - **Total Records**: 15,549 orders
 - **Features**: 39 variables including customer, product, order, and shipping information
 - **Target Variable**: `label` (-1: Late, 0: On-time, 1: Early)
@@ -23,7 +23,7 @@ Delivery delays can significantly impact:
 - **Shipping Details**: Mode, dates, regions
 - **Geographic Data**: Latitude, longitude coordinates
 
-## 🔧 Methodology
+##  Methodology
 
 ### 1. Data Preprocessing & Feature Engineering
 - Processed order and shipping dates to calculate **shipping duration**
@@ -41,7 +41,7 @@ Trained and evaluated three machine learning models:
 - **Random Forest**
 - **Logistic Regression**
 
-## 📈 Model Performance
+##  Model Performance
 
 | Model | Accuracy | F1 Score |
 |-------|----------|----------|
@@ -49,7 +49,7 @@ Trained and evaluated three machine learning models:
 | Random Forest | 57.68% | 51.75% |
 | XGBoost | 56.56% | 52.97% |
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### Top 5 Most Important Features:
 1. **Shipping Mode** (42.8% importance)
@@ -64,7 +64,7 @@ Trained and evaluated three machine learning models:
 - Customer location and order value play moderate roles in delay prediction
 - Profit margins and discount rates show measurable impact on delivery performance
 
-## 🚀 Recommendations
+##  Recommendations
 
 ### Operational Improvements:
 1. **Optimize Shipping Strategies**: Focus on improving performance of shipping modes with high delay rates
@@ -73,4 +73,3 @@ Trained and evaluated three machine learning models:
 4. **Real-time Monitoring**: Incorporate shipping duration tracking in logistics dashboards
 5. **Resource Allocation**: Use predictive insights to pre-allocate resources during peak periods
 
-## 📁 File Structure
