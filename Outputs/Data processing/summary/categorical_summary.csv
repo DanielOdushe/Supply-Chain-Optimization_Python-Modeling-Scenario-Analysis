@@ -1,0 +1,5 @@
+,payment_type,category_name,customer_city,customer_country,customer_segment,customer_state,department_name,market,order_city,order_country,order_date,order_region,order_state,order_status,product_name,shipping_date,shipping_mode
+count,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549,15549
+unique,4,49,555,2,3,44,11,5,2742,152,1162,23,982,7,113,1170,4
+top,DEBIT,Cleats,Caguas,EE. UU.,Consumer,PR,Fan Shop,Europe,Santo Domingo,United States,2017-04-22 00:00:00+01:00,Western Europe,England,COMPLETE,Perfect Fitness Perfect Rip Deck,2015-05-20 00:00:00+01:00,Standard Class
+freq,6148,2212,5964,9438,8332,6109,5708,4578,214,2048,43,2513,654,5290,2219,52,9116

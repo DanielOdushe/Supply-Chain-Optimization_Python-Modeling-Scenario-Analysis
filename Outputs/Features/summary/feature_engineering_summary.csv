@@ -1,0 +1,4 @@
+,0
+rows_after_date_processing,15549
+dropped_rows_due_to_dates,0
+shipping_duration_stats,"{'count': 15549.0, 'mean': 10.954016335455655, 'std': 47.84790275874247, 'min': -458.0, '25%': 10.0, '50%': 11.0, '75%': 13.0, 'max': 313.0}"

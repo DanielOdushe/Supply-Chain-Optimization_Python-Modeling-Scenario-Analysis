@@ -1,0 +1,16 @@
+Feature,Importance
+shipping_mode,0.42778403
+shipping_duration,0.024566516
+product_category_id,0.020709142
+order_profit_per_order,0.019755526
+order_item_total_amount,0.019628178
+sales,0.019002618
+latitude,0.018624822
+order_item_discount,0.018545147
+customer_zipcode,0.018455535
+order_customer_id,0.018445551
+longitude,0.018304445
+order_item_profit_ratio,0.018109472
+order_item_product_price,0.017988691
+order_status,0.017894011
+product_name,0.017774545
